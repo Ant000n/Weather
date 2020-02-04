@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="select_city">Выбрать город</string>
+</resources>
